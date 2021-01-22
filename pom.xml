@@ -23,10 +23,15 @@
   	<artifactId>google-api-client</artifactId>
   	<version>1.30.4</version>
 	</dependency>
-  <dependency>
-    <groupId>org.seleniumhq.selenium</groupId>
-    <artifactId>selenium-java</artifactId>
-    <version>3.141.59</version>
+  	<dependency>
+    	<groupId>org.seleniumhq.selenium</groupId>
+    	<artifactId>selenium-java</artifactId>
+    	<version>3.141.59</version>
+	</dependency>
+	<dependency>
+    	<groupId>com.sun.mail</groupId>
+    	<artifactId>javax.mail</artifactId>
+    	<version>1.6.2</version>
 	</dependency>
     <dependency>
       <groupId>junit</groupId>
