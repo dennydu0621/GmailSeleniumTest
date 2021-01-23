@@ -35,7 +35,7 @@ public class App
     {	
     	getConfPath(args);
     	
-    	new ConfigHandler("C://Users/vista/Desktop/TestConfig.json");
+    	new ConfigHandler(confPath);
     	
     	ArrayList<TestCase> testCaseList = new ArrayList<>();
     	for(String testCase:ConfigHandler.conf.getRunCase()) {
