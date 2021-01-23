@@ -23,6 +23,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/selenium-server-standalone-3.141.59 .jar"/>
+	<classpathentry kind="lib" path="C:/Users/vista/Downloads/selenium-server-4.0.0-alpha-7.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
